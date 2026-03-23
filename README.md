@@ -15,6 +15,11 @@ A secure, role-based Django web application for managing hardware inventory — 
 
 ---
 
+## ✉️ Contact for Source Code
+✉️ mohd.sharib@outlook.com
+
+---
+
 ## 📋 Table of Contents
 
 - [Features](#-features)
